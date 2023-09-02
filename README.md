@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning Unity.<br>I'm trying to improve myself in software development.<br>
-I have some experience with full stack development.
+<h2>I'm trying to improve myself in software development.</h2>
 
 
 ## 🌐 Socials:
