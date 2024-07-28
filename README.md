@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>I'm trying to improve myself in software development.</h2>
+<h2>I'm trying to improve myself in Full Stack Development.</h2>
 
 
 ## 🌐 Socials:
