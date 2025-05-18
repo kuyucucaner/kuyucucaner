@@ -2,6 +2,7 @@
 <h2>I'm trying to improve myself in Full Stack Development.</h2>
 
 
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caner-kuyucu) 
 
@@ -21,5 +22,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kuyucucaner&theme=tokyonight&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kuyucucaner&theme=tokyonight)
 
 
